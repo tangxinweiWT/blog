@@ -1,5 +1,0 @@
-theme: hugo-theme-mini
-baseURL: http://example.org/
-languageCode: en-us
-title: 海獭wt.
-ignoreErrors: ["error-remote-getjson"]
